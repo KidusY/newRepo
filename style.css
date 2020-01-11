@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+main {
+	width: 100%;
+}
+.movieList {
+	width: 100%;
+	margin: 0 auto;
+}
+.list {
+	width: 100%;
+}
